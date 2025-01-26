@@ -38,7 +38,7 @@ $conn->close();
                     <li><a href="./about_page.php">About</a></li>
                     <li><a href="./activity_page.php">Activity</a></li>
                     <li><a href="./course_page.php">Course</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="./contact_page.php">Contact</a></li>
                 </ul>
                 <div class="nav__menu__btn" id="menu-btn">
                     <i class="ri-menu-line"></i>

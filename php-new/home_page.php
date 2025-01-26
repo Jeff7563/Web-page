@@ -40,7 +40,7 @@ $conn->close();
                     <li><a href="./about_page.php">About</a></li>
                     <li><a href="./activity_page.php">Activity</a></li>
                     <li><a href="./course_page.php">Course</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="./contact_page.php">Contact</a></li>
                 </ul>
                 <div class="nav__menu__btn" id="menu-btn">
                     <i class="ri-menu-line"></i>
@@ -105,23 +105,11 @@ $conn->close();
                     <div class="destination__grid about__grid">
                         <div class="destination__card">
                             <img src="../assets/aa1.PNG" alt="destination" />
-                            <div class="card__content">
-                            <h4>10 Must-Visit Hidden Gems</h4>
-                            <p>
-                                Discover off-the-beaten-path locations and hidden gems within
-                                dream destinations, taking you beyond the typical tourist spots.
-                            </p>
-                            </div>
+                            
                         </div>
                         <div class="destination__card">
                             <img src="../assets/aa3.JPG" alt="destination" />
                             <div class="card__content">
-                            <h4>Immersive Cultural Experiences</h4>
-                            <p>
-                                Dive deep into the vibrant cultures of dream destinations,
-                                showcasing the rituals, traditions, and local customs that make
-                                these places truly unique.
-                            </p>
                             </div>
                         </div>
                     </div>
