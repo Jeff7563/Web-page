@@ -18,7 +18,7 @@
         if (password_verify($password, $hashed_password)) {
             $_SESSION['user_id'] = $user_id;
             echo "Login successful!";
-            header('location: ./index.php');
+            header('location: ../home_page_02.php');
         } else {
             echo "<script>
                     alert('Invalid username or password.');
