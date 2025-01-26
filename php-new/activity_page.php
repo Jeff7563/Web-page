@@ -54,7 +54,7 @@ $conn->close();
                                 <a href="#" class="active">User : <?php echo htmlspecialchars($username); ?></a>
                                 </div>
                                 <a href="../assets/profile.php">Edit Profile</a>
-                                <a href="./html/register&login.html">Logout</a>
+                                <a href="../html/register&login.html">Logout</a>
                             </div>
                         </div>
                         </button>
